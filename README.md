@@ -1,4 +1,4 @@
-### ➗ Simple Calculator (Terminal)
+### Simple Calculator (Terminal)
 A basic command-line calculator that supports addition, subtraction, multiplication, and division.  
 The user can input numbers for calculations and exit the program by typing "sair".
 
